@@ -2,7 +2,7 @@
 
 ### 🚀 Futuro Ingeniero en Sistemas Computacionales | Full-Stack Web, Data & DevOps Enthusiast
 
-¡Bienvenido a mi perfil de GitHub! Soy un estudiante de Ingenieria en Sistemas Computacionales  apasionado por construir soluciones tecnológicas eficientes, escalables y seguras. Mi enfoque combina el desarrollo web moderno, la analítica de datos y las buenas prácticas de infraestructura.
+¡Bienvenido a mi perfil de GitHub! Soy un estudiante de Ingenieria en Sistemas Computacionales  apasionado por construir soluciones tecnológicas eficientes, escalables y seguras. Mi enfoque combina el desarrollo web moderno, la analítica de datos.
 
 ---
 <p align="center">
